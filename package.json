@@ -1,15 +1,7 @@
 {
-    "name": "ares-ai",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "start": "node ."
-    },
-    "dependencies": {
-        "discord.js": "^14.0.0",
-        "dotenv": "^16.0.0",
-        "node-fetch": "^3.3.2"
-    }
+  "name": "netron-panel",
+  "version": "1.0.0",
+  "description": "Netron ISP Yonetim Paneli",
+  "main": "index.js",
+  "author": "Berat"
 }
